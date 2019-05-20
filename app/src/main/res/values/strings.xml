@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Custom View Playground</string>
+    <string name="bounds_exceeding">Padding bounds exceed dimensions.</string>
+    <string name="valueSelector_label">VALUE</string>
+    <string name="plus">Add Items</string>
+    <string name="removeItems">Remove Items</string>
+    <string name="last_name">Last Name</string>
+    <string name="technology">Technology</string>
+    <string name="trend">Trending</string>
+    <string name="sports">Sports</string>
+    <string name="all">All</string>
+    <string name="space">Space</string>
+
+
+    <string-array name="colors">
+        <item>#F06423</item>
+        <item>#D85A1B</item>
+        <item>#c9ebee</item>
+        <item>#b5e3e7</item>
+        <item>#70BDC6</item>
+        <item>#78DC96</item>
+        <item>#55C8F0</item>
+        <item>#516179</item>
+        <item>#a5b4c8</item>
+        <item>#FFA500</item>
+        <item>#a5b4c8</item>
+        <item>#fff44f</item>
+        <item>#388e3c</item>
+    </string-array>
+</resources>
